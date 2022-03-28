@@ -2,5 +2,3 @@ It is my first song!
 It is my first git training.
 Third change.
 Shake your body.
-lalala lalala
------------------------
